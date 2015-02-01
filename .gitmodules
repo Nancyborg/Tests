@@ -1,0 +1,9 @@
+[submodule "ColorSensor"]
+	path = ColorSensor
+	url = git@github.com:Nancyborg/ColorSensor.git
+[submodule "SFR10"]
+	path = SFR10
+	url = git@github.com:Nancyborg/SFR10.git
+[submodule "TNI"]
+	path = TNI
+	url = git@github.com:Nancyborg/TNI.git
